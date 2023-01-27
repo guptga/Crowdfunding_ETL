@@ -29,14 +29,14 @@ The ETL process is divided into the following steps:
 
 Using Python and Pandas we have extracted:
 
-4 CSV files from **crowdfunding.xlsx** file and **contacts.xlsx** using the code 
+  1) 4 CSV files from **crowdfunding.xlsx** file and **contacts.xlsx** using the code 
 
-To extract these CSV files either of the 2 methods were used and we chose the **Option 1 :** 
+  2) To extract these CSV files either of the 2 methods were used and we chose the **Option 1 :** 
 
 
-**Option 1 ** - Python dictionary method.
+        **Option 1** - Python dictionary method.
 
-**Option 2 ** - Regular expression method.
+        **Option 2 ** - Regular expression method.
 
 **Step 2:** Transform and Clean Data
 
@@ -45,8 +45,11 @@ Using Python, Pandas, and data cleaning strategies, we have transformed the data
 When finishing this step, we have 4 CSV cleaned files saved as:
 
 contacts.csv
+
 category.csv
+
 subcategory.csv
+
 campaign.csv
 
 
