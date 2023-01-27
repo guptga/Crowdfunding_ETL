@@ -66,4 +66,11 @@ In order to load the cleaned datasets as CSV files into an SQL database we start
 
 2) The next step was to pass and run the PostgreSQL file into PgAdmin query editor in order to create the tables. Finally, we have uploaded the CSV cleaned files into these tables.
 
+3) The data from each table is displayed using a SELECT * 
+
+select * from public.campaign;
+![Capture](https://user-images.githubusercontent.com/116124534/214984048-8ea6c2f0-603a-40aa-8317-f2bc5e5c6045.PNG)
+![Capture 1](https://user-images.githubusercontent.com/116124534/214984092-f5f7e63a-fbe1-467f-aad2-86d7ead7c6fe.PNG)
+
+
 
