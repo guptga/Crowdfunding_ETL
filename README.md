@@ -58,10 +58,12 @@ campaign.csv
 
 In order to load the cleaned datasets as CSV files into an SQL database we started by creating an Entity Relationship Diagram (ERD) using Quick DBD website (https://www.quickdatabasediagrams.com/).
 
-    1) When the database schema is complete, we have saved the ERD as crowdfunding_db_schema.png and we have saved the database schema as a PostgreSQL file named crowdfunding_db_schema.sql
+1) When the database schema is complete, we have saved the ERD as crowdfunding_db_schema.png and we have saved the database schema as a PostgreSQL file named crowdfunding_db_schema.sql
 
 ![crowdfunding_db_schema](https://user-images.githubusercontent.com/116124534/214982917-58198bd4-b327-4fd8-a634-d2fcdca4f647.png)
 
 
 
-The next step was to pass and run the PostgreSQL file into PgAdmin query editor in order to create the tables. Finally, we have uploaded the CSV cleaned files into these tables.
+2) The next step was to pass and run the PostgreSQL file into PgAdmin query editor in order to create the tables. Finally, we have uploaded the CSV cleaned files into these tables.
+
+
