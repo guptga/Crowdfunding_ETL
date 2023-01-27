@@ -70,7 +70,6 @@ In order to load the cleaned datasets as CSV files into an SQL database we start
 
 select * from public.campaign;
 ![Capture](https://user-images.githubusercontent.com/116124534/214984048-8ea6c2f0-603a-40aa-8317-f2bc5e5c6045.PNG)
-![Capture 1](https://user-images.githubusercontent.com/116124534/214984092-f5f7e63a-fbe1-467f-aad2-86d7ead7c6fe.PNG)
-
+![Capture 1](https://user-images.githubusercontent.com/116124534/214984231-54d236b1-612c-4c9d-ae3a-e6d367cf4d55.PNG)
 
 
