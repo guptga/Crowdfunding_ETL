@@ -17,6 +17,7 @@ The aim of this project is to build a database with SQL. This way, analysis can 
 Resources
 
 Data Source: crowdfunding.xlsx - contacts.csv
+
 Software: Jupyter Notebook, PostgreSQL, pgAdmin 4
 
 
@@ -30,10 +31,12 @@ Using Python and Pandas we have extracted:
 
 4 CSV files from **crowdfunding.xlsx** file and **contacts.xlsx** using the code 
 
-To extract these CSV files either of the 2 methods were used and we chose the Option 1 : 
+To extract these CSV files either of the 2 methods were used and we chose the **Option 1 :** 
 
-**Option 1 **- Python dictionary method.
-**Option 2 **- Regular expression method.
+
+**Option 1 ** - Python dictionary method.
+
+**Option 2 ** - Regular expression method.
 
 **Step 2:** Transform and Clean Data
 
