@@ -69,16 +69,26 @@ In order to load the cleaned datasets as CSV files into an SQL database we start
 3) The data from each table is displayed using a SELECT * 
 
 select * from public.campaign;
+
+
 ![Capture](https://user-images.githubusercontent.com/116124534/214984048-8ea6c2f0-603a-40aa-8317-f2bc5e5c6045.PNG)
 ![Capture 1](https://user-images.githubusercontent.com/116124534/214984231-54d236b1-612c-4c9d-ae3a-e6d367cf4d55.PNG)
 
+
 select * from public.category;
+
+
 ![image](https://user-images.githubusercontent.com/116124534/214984450-68e211eb-d190-477c-b601-79f4ba5ca374.png)
 
+
 select * from public.contacts;
+
+
 ![image](https://user-images.githubusercontent.com/116124534/214984599-cad0acd3-972b-49d4-9f86-710a1921ddb4.png)
 
+
 select * from public.subcategory;
+
 ![image](https://user-images.githubusercontent.com/116124534/214984706-f802bf83-0c3f-48ea-88ae-73a9f34976b8.png)
 
 
